@@ -3,3 +3,4 @@ build:
 clean:
 	rm qwertysh
 all: build
+
