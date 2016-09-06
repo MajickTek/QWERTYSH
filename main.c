@@ -232,7 +232,7 @@ void qwertysh_loop(void)
   int status;
 
   do {
-    printf("> ");
+    printf("QWERTY> ");
     line = qwertysh_read_line();
     args = qwertysh_split_line(line);
     status = qwertysh_execute(args);
