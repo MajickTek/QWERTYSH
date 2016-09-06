@@ -1,5 +1,7 @@
 PREFIX = /usr/local
 
+build:
+	gcc main.c -o qwertysh
 .PHONY: install
 install: build
 	mkdir -p $(DESTDIR)$(PREFIX)/bin
@@ -7,8 +9,6 @@ install: build
 .PHONY: uninstall
 uninstall:
 	rm -rf $(DESTDIR)$(PREFIX)/bin/qwertysh
-build:
-	gcc main.c -o qwertysh
 clean:
 	rm qwertysh
 all: install
