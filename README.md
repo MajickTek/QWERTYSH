@@ -1,6 +1,6 @@
 # QWERTYSH
 
-[![Screen](https://raw.github.com/MajickTek/QWERTYSH/master/screenshots/QWERTYSH.png)](https://raw.github.com/MajickTek/QWERTYSH/master/screenshots/QWERTYSH.png)
+[![Screen](https://raw.github.com/MajickTek/QWERTYSH/master/QWERTYSH.png)](https://raw.github.com/MajickTek/QWERTYSH/master/QWERTYSH.png)
 A Simple Shell For *NIX, and maybe Windows
 
 Based On github.com/brenns10/lsh
