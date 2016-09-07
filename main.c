@@ -251,7 +251,7 @@ void qwertysh_loop(void)
 int main(int argc, char **argv)
 {
   // Load config files, if any.
-
+  system("clear");
   // Run command loop.
   qwertysh_loop();
 
