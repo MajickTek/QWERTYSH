@@ -10,6 +10,6 @@ install: build
 uninstall:
 	sudo rm -rf $(PREFIX)/bin/qwertysh
 clean:
-	rm qwertysh
+	rm build
 all: install
 
