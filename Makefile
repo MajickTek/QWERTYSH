@@ -8,7 +8,7 @@ install: build
 	cp $< $(PREFIX)/bin/qwertysh
 .PHONY: uninstall
 uninstall:
-	rm -rf $(DESTDIR)$(PREFIX)/bin/qwertysh
+	rm -rf $(PREFIX)/bin/qwertysh
 clean:
 	rm qwertysh
 all: install
