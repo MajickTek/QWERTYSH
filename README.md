@@ -11,4 +11,4 @@ To uninstall, type 'make uninstall', then 'make clean'
 - gcc
 - a Unix environment(Linux/Mac OS, etc.) to install/uninstall
 
-Has ** ONLY ** been tested on macOS Sierra, with XCode/Command-Line Developer Tools! But I'm ** PRETTY SURE ** it'd work on most Unix-like/Unix-based systems.
+Has **ONLY** been tested on macOS Sierra, with XCode/Command-Line Developer Tools! But I'm **PRETTY SURE** it'd work on most Unix-like/Unix-based systems.
