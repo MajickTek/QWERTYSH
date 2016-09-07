@@ -4,11 +4,11 @@ build:
 	gcc main.c -o build
 .PHONY: install
 install: build
-	mkdir -p $(PREFIX)/bin
-	cp $< $(PREFIX)/bin/qwertysh
+	sudo mkdir -p $(PREFIX)/bin
+	sudo cp $< $(PREFIX)/bin/qwertysh
 .PHONY: uninstall
 uninstall:
-	rm -rf $(PREFIX)/bin/qwertysh
+	sudo rm -rf $(PREFIX)/bin/qwertysh
 clean:
 	rm qwertysh
 all: install
