@@ -1,5 +1,7 @@
 # QWERTYSH
 
+[![Screen](https://raw.github.com/MajickTek/QWERTYSH/master/SCREENSHOT.png)](https://raw.github.com/MajickTek/QWERTYSH/master/SCREENSHOT.png)
+
 A Simple Shell For *NIX, and maybe Windows
 
 Based On github.com/brenns10/lsh
