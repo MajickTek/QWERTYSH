@@ -92,7 +92,7 @@ int qwertysh_exit(char **args)
 
 int qwertysh_cls(char **args)
 {
-  printf("\033[2J");
+  printf("\033[2J"); // see my repo "CLS" for more info
 }
 /**
   @brief Launch a program and wait for it to terminate.
